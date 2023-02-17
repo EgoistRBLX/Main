@@ -3,7 +3,10 @@ ROBLOX Scripts.
 
 # Info
 
-###### A Roblox Scripter
+#### A Roblox Scripter
+
+### 📊 Stats
+![Egoist's GitHub stats](https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&theme=gruvbox)
 
 > 🌱 Known Language(s): Lua
 
