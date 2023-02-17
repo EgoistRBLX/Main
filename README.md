@@ -2,7 +2,7 @@
 ROBLOX Scripts.
 
 # Info
-##👋 EGORAGE#0460
+👋 EGORAGE#0460
 ###### A Roblox Scripter
 
 Current working scripts:
