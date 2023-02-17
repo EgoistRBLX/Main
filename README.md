@@ -5,6 +5,8 @@ ROBLOX Scripts.
 
 #### A Roblox Scripter
 
+![A Roblox Scripter](https://i.imgur.com/k7hPyYh.jpg)
+
 ### 📊 Stats
 ![Egoist's GitHub stats](https://github-readme-stats.vercel.app/api?username=egoistrblx&show_icons=true&theme=gruvbox)
 
