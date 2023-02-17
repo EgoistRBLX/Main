@@ -13,7 +13,7 @@ ROBLOX Scripts.
 
 ###### Current working scripts:
 
-> 🔭 [EgoistSilent](https://github.com/EgoistRBLX/Main/blob/main/EgoistSilent).
+> 🔭 [EgoistSilent](https://github.com/EgoistRBLX/Main/blob/main/EgoistSilent)
 
 
 
