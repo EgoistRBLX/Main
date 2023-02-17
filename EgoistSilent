@@ -1,4 +1,4 @@
--- init
+-- Init
 if not game:IsLoaded() then 
     game.Loaded:Wait()
 end
@@ -10,7 +10,7 @@ end
 local SilentAimSettings = {
     Enabled = false,
     
-    ClassName = "Universal Silent Aim - Averiias, Stefanuk12, xaxa",
+    ClassName = "Universal Silent Aim - Egoist's Fix",
     ToggleKey = "RightAlt",
     
     TeamCheck = false,
@@ -305,6 +305,8 @@ local FieldOfViewBOX = GeneralTab:AddLeftTabbox("Field Of View") do
         mouse_box.Visible = Toggles.MousePosition.Value 
         SilentAimSettings.ShowSilentAimTarget = Toggles.MousePosition.Value 
     end)
+    Main:AddButton('Erase UI', function() Library:Unload() end)
+    
     local PredictionTab = MiscellaneousBOX:AddTab("Prediction")
     PredictionTab:AddToggle("Prediction", {Text = "Mouse.Hit/Target Prediction"}):OnChanged(function()
         SilentAimSettings.MouseHitPrediction = Toggles.Prediction.Value
