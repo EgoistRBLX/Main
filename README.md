@@ -7,7 +7,7 @@ ROBLOX Scripts.
 
 ###### Current working scripts:
 ```
-> 🔭 Egoist's Silent
+> 🔭 [EgoistSilent](https://github.com/EgoistRBLX/Main/blob/main/EgoistSilent).
 ```
 
 > 🌱 Known Language(s): Lua
